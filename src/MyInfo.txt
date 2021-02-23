@@ -1,1 +1,2 @@
 My name is Vadim!
+I am learning Java.
